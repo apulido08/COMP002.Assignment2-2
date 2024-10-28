@@ -7,3 +7,6 @@
 // ###
 // ##
 // #
+
+for (var triangle = "#"; triangle.length <= 4; triangle += "#") 
+    console.log(triangle);
