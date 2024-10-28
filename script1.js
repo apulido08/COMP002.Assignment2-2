@@ -8,5 +8,5 @@
 // ##
 // #
 
-for (var triangle = "#"; triangle.length <= 4; triangle += "#") 
-    console.log(triangle);
+for (let line = "#"; line.length < 8; line += "#")
+    console.log(line);
